@@ -1,0 +1,47 @@
+html {
+    font-family: sans-serif;
+    background-color: #c6d9ee;
+}
+
+h1 {
+    text-align: right;
+    font-size: 48px;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 48px;
+    font-variant: small-caps;
+}
+
+p.primero {
+    margin-left: 49px;
+}
+
+p.salto {
+    margin-bottom: 30px;
+}
+
+span.encabezado {
+    font-family: cursive;
+    color: red;
+}
+
+p.pie {
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+strong {
+    color: chocolate;
+}
+
+time {
+    color: darkorange;
+}
+
+em {
+    background-color: white;
+    color: green;
+}
